@@ -20,5 +20,7 @@
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="Heranca"/>
 	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="src" path="GUI"/>
+	<classpathentry kind="src" path="Java Stream"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

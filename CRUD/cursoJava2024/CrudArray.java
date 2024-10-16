@@ -47,6 +47,7 @@ public class CrudArray {
 		sc.close();
 	}
 
+//Criando todos os metodos:
 	static void adicionarUsuario(Scanner sc) {
 		if (contador < 10) {
 			System.out.print("Digite o nome: ");
